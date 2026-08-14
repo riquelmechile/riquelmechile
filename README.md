@@ -35,7 +35,40 @@ Agentes con contexto, memoria y herramientas; pero también con presupuesto, evi
 
 ---
 
-## Sistemas, no demos
+## La variedad no es dispersión. Es búsqueda de estructura.
+
+Soy **neurodivergente**. No lo uso como credencial ni como “superpoder”; es parte de cómo entiendo mi forma de trabajar. Tiendo a moverme entre dominios muy distintos, perseguir conexiones y reconocer estructuras que reaparecen con nombres diferentes.
+
+Comercio, contabilidad chilena, regulación de datos, infraestructura, sistemas agénticos, automatización de contenido: desde afuera parecen mundos separados. Desde adentro suelen terminar haciendo las mismas preguntas:
+
+> **¿Quién puede decidir? · ¿Qué evidencia lo prueba? · ¿Cuánto cuesta equivocarse? · ¿Cómo verificamos el outcome?**
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/pattern-lattice-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/profile/pattern-lattice-light.svg">
+    <img src="assets/profile/pattern-lattice-dark.svg" width="100%" alt="Mapa neurodivergente de patrones entre comercio, contabilidad chilena, regulación, infraestructura MCP, empresas agénticas y automatización social">
+  </picture>
+</p>
+
+No construyo proyectos para acumular repositorios. Los construyo cuando un problema real me obliga a entender una capa nueva o cuando un patrón aprendido en un dominio puede resolver otro.
+
+### Patrones que viajan entre proyectos
+
+| Patrón | Donde apareció primero | Donde reaparece |
+|---|---|---|
+| **autoridad explícita antes de actuar** | operación comercial y dinero real | EAUTO-AI · MSL · Xanxittoo |
+| **evidencia antes que confianza** | reclamos, costos, auditoría operacional | Elcontador · Skills Chile · RDD |
+| **cero trabajo cuando no cambió nada** | costo de automatización 24/7 | IO y su heartbeat determinístico |
+| **separar propuesta, ejecución y outcome** | comercio y postventa | agentes, MCP, workflows y receipts |
+| **contexto local como requisito, no adorno** | operar en Chile | Elcontador · Skills Chile · comercio chileno |
+| **humano en el loop donde el riesgo importa** | decisiones económicas | EAUTO-AI · MSL · zanaX |
+
+---
+
+## Sistemas seleccionados por la idea difícil que resuelven
+
+No están aquí por ser públicos, privados, grandes o pequeños. Están porque cada uno representa una pregunta difícil distinta.
 
 <p align="center">
   <a href="https://github.com/riquelmechile/io"><img src="assets/projects/io.svg" width="49%" alt="IO — empresa digital operada por trabajadores agénticos"></a>
@@ -43,21 +76,30 @@ Agentes con contexto, memoria y herramientas; pero también con presupuesto, evi
 </p>
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/msl-collab"><img src="assets/projects/msl.svg" width="49%" alt="MSL — empresa agente orientada a inteligencia operacional"></a>
-  <a href="https://github.com/riquelmechile/zanaX"><img src="assets/projects/zanax.svg" width="49%" alt="zanaX — agente de investigación, redacción y publicación en X"></a>
+  <a href="https://github.com/riquelmechile/xanxittoo"><img src="assets/projects/xanxittoo.svg" width="49%" alt="Xanxittoo — orquestación de desarrollo con memoria, SDD y receipts"></a>
+  <a href="https://github.com/riquelmechile/Elcontador"><img src="assets/projects/elcontador.svg" width="49%" alt="Elcontador — contabilidad chilena local-first con IA y seguridad por diseño"></a>
 </p>
 
 <p align="center">
+  <a href="https://github.com/riquelmechile/Msl"><img src="assets/projects/msl.svg" width="49%" alt="MSL — empresa agente orientada a inteligencia operacional"></a>
   <a href="https://github.com/riquelmechile/Skills-Chile"><img src="assets/projects/skills-chile.svg" width="49%" alt="Skills Chile — conocimiento chileno convertido en skills verificables"></a>
 </p>
 
-### Una misma obsesión, cinco direcciones
+<p align="center">
+  <a href="https://github.com/riquelmechile/zanaX"><img src="assets/projects/zanax.svg" width="49%" alt="zanaX — agente de investigación, redacción y publicación en X"></a>
+</p>
 
-| Operar | Construir | Gobernar | Aprender |
-|---|---|---|---|
-| comercio, catálogo, Ads, postventa | agentes, APIs, Android, automatización | SDD/TDD/RDD, receipts, risk gates | IA local, memoria, evaluación, costo |
-| señales del negocio | TypeScript, Python, PostgreSQL | humano en el loop cuando importa | evidencia > intuición |
-| outcomes económicos | MCP, workers, sandboxes | fail-closed antes que “parece funcionar” | iterar sobre resultados reales |
+### Siete proyectos, siete preguntas
+
+| Sistema | Pregunta que persigue |
+|---|---|
+| **IO** | ¿Puede una empresa agéntica estar disponible 24/7 sin quemar tokens cuando no ocurre nada? |
+| **EAUTO-AI** | ¿Cómo dar inteligencia a una operación comercial sin entregar autoridad ciega al modelo? |
+| **Xanxittoo** | ¿Cómo convertir desarrollo con IA en un proceso persistente, especificado, revisable y verificable? |
+| **Elcontador** | ¿Cómo llevar IA contable local-first a Chile sin sacrificar seguridad, trazabilidad ni contexto tributario? |
+| **MSL** | ¿Cómo organizar una fuerza de trabajo agéntica orientada a rentabilidad y evidencia operacional? |
+| **Skills Chile** | ¿Cómo transformar conocimiento normativo y procesos chilenos en capacidades reutilizables y verificables? |
+| **zanaX** | ¿Cómo automatizar investigación y publicación manteniendo crítica, memoria y aprobación humana? |
 
 ---
 
@@ -70,9 +112,12 @@ Una propuesta no es una ejecución. Una ejecución no es un outcome. Un `200 OK`
 Un agente 24/7 no tiene por qué llamar al modelo 24/7. Si no ocurrió nada material, la decisión correcta puede costar cero tokens.
 
 **03 · El mundo real es mejor benchmark que una demo.**  
-Mis sistemas nacen de problemas que ya existen: comercio, rentabilidad, operación, regulación chilena y automatización personal.
+Mis sistemas nacen de problemas que ya existen: comercio, rentabilidad, contabilidad, regulación chilena, infraestructura y automatización personal.
 
-**04 · Chile no es un pie de página.**  
+**04 · La transferencia de patrones vale más que una lista de tecnologías.**  
+Una arquitectura se vuelve interesante cuando una idea aprendida resolviendo comercio termina mejorando un agente, una skill legal, un sistema contable o un proceso de desarrollo.
+
+**05 · Chile no es un pie de página.**  
 Construyo también para contexto local: normativa, procesos y herramientas que normalmente no llegan bien representados a los sistemas globales.
 
 <details>
@@ -108,42 +153,27 @@ La IA acelera el trabajo; **la evidencia conserva la autoridad**.
 </details>
 
 <details>
-<summary><strong>Mi laboratorio</strong></summary>
+<summary><strong>Mi laboratorio completo</strong></summary>
 
 <br>
 
-Estoy explorando, entre otras cosas:
+Además de los sistemas destacados, exploro ecommerce propio, control de MercadoLibre, benchmarks de orquestación, MCPs, infraestructura, memoria persistente, IA local y automatizaciones personales. No todo necesita convertirse en “producto”; algunos repos existen para responder una pregunta técnica concreta y alimentar el siguiente sistema.
 
-- empresas agénticas donde la unidad principal es la empresa y no el chatbot;
-- agentes activados por señales económicas, no por loops ciegos;
-- memoria persistente separada de la verdad operacional;
-- control planes móviles para dirigir sistemas 24/7;
-- MCP como superficie operacional verificable;
-- IA local cuando privacidad, latencia o costo lo justifican;
-- skills abiertas para problemas, normas y procesos de Chile.
+Lo que une el laboratorio no es un stack. Es una secuencia recurrente:
+
+```text
+problema real → patrón → sistema → evidencia → aprendizaje → patrón reutilizable
+```
 
 No presento prototipos como producción. Si algo está incompleto, prefiero que el repositorio lo diga.
-
-</details>
-
-<details>
-<summary><strong>Por qué “builder” y no una lista de títulos</strong></summary>
-
-<br>
-
-Porque mi recorrido es práctico: primero operador de e-commerce, después automatización y finalmente sistemas completos. Aprendo construyendo, midiendo y corrigiendo sobre problemas reales.
-
-Mi pregunta recurrente no es “¿qué modelo es más inteligente?”, sino:
-
-> **¿qué parte de esta decisión necesita inteligencia, qué parte necesita una regla y qué evidencia demuestra que funcionó?**
 
 </details>
 
 ---
 
 <p align="center">
-  <strong>Building verifiable agentic systems from Chile.</strong><br>
-  <sub>Operate first · automate second · verify always.</sub>
+  <strong>Building verifiable systems by connecting patterns across domains.</strong><br>
+  <sub>Operate first · find the pattern · automate second · verify always.</sub>
 </p>
 
 <p align="center">

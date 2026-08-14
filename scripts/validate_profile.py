@@ -46,6 +46,8 @@ for path in svg_files:
     for token in banned_svg:
         if token in low:
             errors.append(f"{path.relative_to(ROOT)}: banned SVG token {token}")
+    if "public system" in low:
+        errors.append(f"{path.relative_to(ROOT)}: project quality must not be framed by public/private status")
     for el in root.iter():
         for attr_name, attr_value in el.attrib.items():
             if attr_name.endswith("href") and str(attr_value).startswith(("http://", "https://")):
@@ -58,9 +60,16 @@ required = (
     "https://www.linkedin.com/in/sebastian-riquelme-vera-482778198",
     "https://github.com/riquelmechile/io",
     "https://github.com/riquelmechile/EAUTO-AI",
-    "https://github.com/riquelmechile/msl-collab",
-    "https://github.com/riquelmechile/zanaX",
+    "https://github.com/riquelmechile/xanxittoo",
+    "https://github.com/riquelmechile/Elcontador",
+    "https://github.com/riquelmechile/Msl",
     "https://github.com/riquelmechile/Skills-Chile",
+    "https://github.com/riquelmechile/zanaX",
+    "assets/profile/pattern-lattice-dark.svg",
+    "assets/profile/pattern-lattice-light.svg",
+    "La variedad no es dispersión. Es búsqueda de estructura.",
+    "neurodivergente",
+    "Sistemas seleccionados por la idea difícil que resuelven",
     "3.609", "50 días activos", "21 días", "427",
 )
 for needle in required:
@@ -71,6 +80,9 @@ for bad in ("capsule-render", "readme-typing-svg", "github-profile-summary-cards
     if bad in readme:
         errors.append(f"README depends on banned external profile service: {bad}")
 
+if "proyectos públicos" in readme.lower() or "public systems" in readme.lower():
+    errors.append("README must prioritize project quality and pattern transfer over public/private status")
+
 asset_refs = set(re.findall(r'(?:src|srcset)="([^"]+\.svg)"', readme))
 for ref in asset_refs:
     if ref.startswith(("http://", "https://")):
@@ -79,8 +91,8 @@ for ref in asset_refs:
     if not (ROOT / ref).is_file():
         errors.append(f"README references missing asset: {ref}")
 
-if len(svg_files) < 11:
-    errors.append(f"Expected at least 11 SVG assets, found {len(svg_files)}")
+if len(svg_files) < 15:
+    errors.append(f"Expected at least 15 SVG assets, found {len(svg_files)}")
 
 if errors:
     print("PROFILE VALIDATION FAILED")
