@@ -20,6 +20,6 @@
   <circle cx="30" cy="80" r="5" fill="#F87171"/><circle cx="65" cy="61" r="5" fill="#F8FAFC"/><circle cx="105" cy="47" r="5" fill="#F87171"/>
 </g>
 <line x1="28" y1="181" x2="532" y2="181" stroke="#263044"/>
-<text x="28" y="204" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" font-weight="700" fill="#7C8AA5">PUBLIC SYSTEM / 05</text>
+<text x="28" y="204" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" font-weight="700" fill="#7C8AA5">SELECTED BUILD / 06</text>
 <text x="532" y="204" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#F87171">OPEN REPOSITORY ↗</text>
 </svg>

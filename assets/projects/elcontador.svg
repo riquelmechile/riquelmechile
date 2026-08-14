@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" role="img" aria-labelledby="project-elc-title project-elc-desc">
+<title id="project-elc-title">Elcontador</title>
+<desc id="project-elc-desc">Contabilidad chilena local-first con IA, F29/F22, Android, seguridad y trazabilidad por diseño.</desc>
+<defs><linearGradient id="project-elc-accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#60A5FA"/><stop offset="1" stop-color="#F87171" stop-opacity=".2"/></linearGradient></defs>
+<rect width="560" height="220" rx="24" fill="#0B1020"/><rect x="1" y="1" width="558" height="218" rx="23" fill="none" stroke="#263044"/>
+<text x="28" y="34" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.3" fill="#60A5FA">CHILE · LOCAL-FIRST ACCOUNTING</text>
+<text x="28" y="82" font-family="ui-sans-serif,system-ui,sans-serif" font-size="34" font-weight="850" fill="#F8FAFC">Elcontador</text>
+<text x="28" y="119" font-family="ui-sans-serif,system-ui,sans-serif" font-size="15" font-weight="600" fill="#D1D5DB">IA contable con contexto tributario, seguridad y trazabilidad.</text>
+<text x="28" y="151" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11.5" fill="#8FA0B8">Android · F29/F22 · RCV · privacy</text>
+<g transform="translate(420 40)"><rect x="5" y="8" width="82" height="96" rx="18" fill="url(#project-elc-accent)" opacity=".16"/><path d="M27 31h38M27 49h38M27 67h15M52 67h13M27 85h15M52 85h13" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/><circle cx="74" cy="88" r="14" fill="#F87171"/><path d="M68 88l5 5 9-11" fill="none" stroke="#F8FAFC" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></g>
+<line x1="28" y1="181" x2="532" y2="181" stroke="#263044"/><text x="28" y="204" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" font-weight="700" fill="#7C8AA5">SELECTED BUILD / 04</text><text x="532" y="204" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="10.5" fill="#60A5FA">OPEN REPOSITORY ↗</text>
+</svg>

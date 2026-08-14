@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="pattern-title pattern-desc">
+<title id="pattern-title">Neurodivergent Pattern Map</title>
+<desc id="pattern-desc">Mapa visual que conecta comercio, empresa agéntica, contabilidad chilena, GRC y skills, infraestructura MCP y automatización social mediante patrones comunes de autoridad, evidencia, costo y outcome.</desc>
+<defs>
+  <linearGradient id="pattern-core" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#22D3A6"/>
+    <stop offset="0.52" stop-color="#60A5FA"/>
+    <stop offset="1" stop-color="#A78BFA"/>
+  </linearGradient>
+</defs>
+<rect width="1200" height="520" rx="28" fill="#0B1020"/>
+<rect x="1" y="1" width="1198" height="518" rx="27" fill="none" stroke="#1F2937"/>
+<text x="48" y="42" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" font-weight="800" letter-spacing="1.5" fill="#22D3A6">NEURODIVERGENT PATTERN MAP</text>
+<text x="1152" y="42" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" fill="#9CA3AF">VARIETY → STRUCTURE → TRANSFER</text>
+
+<g stroke="#263044" stroke-width="2" fill="none">
+  <path d="M600 259L288 126"/><path d="M600 259L600 110"/><path d="M600 259L912 126"/>
+  <path d="M600 259L288 396"/><path d="M600 259L600 412"/><path d="M600 259L912 396"/>
+</g>
+
+<g transform="translate(446 178)">
+  <rect width="308" height="162" rx="28" fill="#111827" stroke="url(#pattern-core)" stroke-width="3"/>
+  <circle cx="154" cy="42" r="16" fill="url(#pattern-core)"/>
+  <text x="154" y="80" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="28" font-weight="850" fill="#F8FAFC">PATTERN VISION</text>
+  <text x="154" y="108" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.2" fill="#9CA3AF">AUTHORITY · EVIDENCE</text>
+  <text x="154" y="130" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.2" fill="#9CA3AF">COST · OUTCOME</text>
+</g>
+
+<g transform="translate(76 78)"><rect width="320" height="98" rx="20" fill="#111827" stroke="#263044"/><circle cx="26" cy="27" r="7" fill="#F87171"/><text x="46" y="31" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.1" fill="#F87171">COMMERCE</text><text x="24" y="62" font-family="ui-sans-serif,system-ui,sans-serif" font-size="17" font-weight="750" fill="#F8FAFC">dinero · riesgo · operación real</text><text x="24" y="82" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#9CA3AF">pricing · Ads · postventa · outcomes</text></g>
+<g transform="translate(440 62)"><rect width="320" height="98" rx="20" fill="#111827" stroke="#263044"/><circle cx="26" cy="27" r="7" fill="#22D3A6"/><text x="46" y="31" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.1" fill="#22D3A6">AGENTIC COMPANY</text><text x="24" y="62" font-family="ui-sans-serif,system-ui,sans-serif" font-size="17" font-weight="750" fill="#F8FAFC">trabajo · presupuesto · memoria</text><text x="24" y="82" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#9CA3AF">heartbeats · workers · receipts</text></g>
+<g transform="translate(804 78)"><rect width="320" height="98" rx="20" fill="#111827" stroke="#263044"/><circle cx="26" cy="27" r="7" fill="#60A5FA"/><text x="46" y="31" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.1" fill="#60A5FA">CHILE / ACCOUNTING</text><text x="24" y="62" font-family="ui-sans-serif,system-ui,sans-serif" font-size="17" font-weight="750" fill="#F8FAFC">contexto local · trazabilidad</text><text x="24" y="82" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#9CA3AF">F29 · F22 · local-first · seguridad</text></g>
+<g transform="translate(76 344)"><rect width="320" height="98" rx="20" fill="#111827" stroke="#263044"/><circle cx="26" cy="27" r="7" fill="#A78BFA"/><text x="46" y="31" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.1" fill="#A78BFA">GRC / SKILLS</text><text x="24" y="62" font-family="ui-sans-serif,system-ui,sans-serif" font-size="17" font-weight="750" fill="#F8FAFC">norma · evidencia · aplicabilidad</text><text x="24" y="82" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#9CA3AF">Chile · privacidad · capacidades</text></g>
+<g transform="translate(440 360)"><rect width="320" height="98" rx="20" fill="#111827" stroke="#263044"/><circle cx="26" cy="27" r="7" fill="#FBBF24"/><text x="46" y="31" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.1" fill="#FBBF24">MCP / INFRA</text><text x="24" y="62" font-family="ui-sans-serif,system-ui,sans-serif" font-size="17" font-weight="750" fill="#F8FAFC">capabilities · control · delivery</text><text x="24" y="82" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#9CA3AF">SDD · RDD · orchestration · CI</text></g>
+<g transform="translate(804 344)"><rect width="320" height="98" rx="20" fill="#111827" stroke="#263044"/><circle cx="26" cy="27" r="7" fill="#34D399"/><text x="46" y="31" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="800" letter-spacing="1.1" fill="#34D399">SOCIAL / AUTOMATION</text><text x="24" y="62" font-family="ui-sans-serif,system-ui,sans-serif" font-size="17" font-weight="750" fill="#F8FAFC">research · critic · human loop</text><text x="24" y="82" font-family="ui-sans-serif,system-ui,sans-serif" font-size="12" fill="#9CA3AF">memory · timing · publication</text></g>
+
+<text x="600" y="494" text-anchor="middle" font-family="ui-sans-serif,system-ui,sans-serif" font-size="14" font-weight="700" fill="#9CA3AF">Different domains. Repeating structures. Transferable systems.</text>
+</svg>
