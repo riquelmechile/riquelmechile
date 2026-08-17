@@ -31,11 +31,11 @@ Agentes con contexto, memoria y herramientas; pero también con presupuesto, evi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile/execution-pulse-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/profile/execution-pulse-light.svg">
-    <img src="assets/profile/execution-pulse-dark.svg" width="100%" alt="Pulso de ejecución GitHub: 3933 contribuciones en 60 días">
+    <img src="assets/profile/execution-pulse-dark.svg" width="100%" alt="Pulso de ejecución GitHub: 3935 contribuciones en 60 días">
   </picture>
 </p>
 
-<sub><strong>Corte: 17-AGO-2026.</strong> GitHub registró <strong>3.933 contribuciones</strong> entre el 19-JUN y el 17-AGO: <strong>3.114 commits</strong>, 51 días activos, racha máxima de 21 días y un pico de 427 en un día. Métricas obtenidas directamente de GitHub para una ventana exacta de 60 días; no se exponen repositorios ni actividad privada.</sub>
+<sub><strong>Corte: 17-AGO-2026, 11:45 CLT.</strong> GitHub registró <strong>3.935 contribuciones</strong> entre el 19-JUN y el 17-AGO: <strong>3.115 commits</strong>, 52 días activos, racha máxima de 21 días y un pico de 427 en un día. Snapshot obtenido directamente de GitHub para una ventana exacta de 60 días; no se exponen repositorios ni actividad privada.</sub>
 
 ---
 
