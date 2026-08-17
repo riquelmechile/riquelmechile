@@ -70,7 +70,8 @@ required = (
     "La variedad no es dispersión. Es búsqueda de estructura.",
     "neurodivergente",
     "Sistemas seleccionados por la idea difícil que resuelven",
-    "3.609", "50 días activos", "21 días", "427",
+    "assets/profile/typing-name.svg",
+    "3.933", "3.114 commits", "51 días activos", "21 días", "427",
 )
 for needle in required:
     if needle not in readme:
@@ -90,6 +91,10 @@ for ref in asset_refs:
         continue
     if not (ROOT / ref).is_file():
         errors.append(f"README references missing asset: {ref}")
+
+typing_svg = (ROOT / "assets/profile/typing-name.svg")
+if typing_svg.is_file() and "<animate " not in typing_svg.read_text(encoding="utf-8"):
+    errors.append("typing-name.svg must contain local SVG animation")
 
 if len(svg_files) < 15:
     errors.append(f"Expected at least 15 SVG assets, found {len(svg_files)}")
