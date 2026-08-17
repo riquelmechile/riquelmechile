@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="assets/profile/typing-name.svg" width="100%" alt="Sebastián Riquelme — nombre animado estilo terminal">
+  <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/typing-name.svg" width="100%" alt="Sebastián Riquelme — nombre animado estilo terminal">
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile/hero-light.svg">
-    <img src="assets/profile/hero-dark.svg" width="100%" alt="Sebastián Riquelme — operador de e-commerce y builder de sistemas agénticos desde Chile">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/hero-light.svg">
+    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/hero-dark.svg" width="100%" alt="Sebastián Riquelme — operador de e-commerce y builder de sistemas agénticos desde Chile">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://x.com/riquelme44127"><img src="assets/social/x.svg" width="32%" alt="X — @riquelme44127"></a>
-  <a href="https://www.linkedin.com/in/sebastian-riquelme-vera-482778198"><img src="assets/social/linkedin.svg" width="32%" alt="LinkedIn — Sebastián Riquelme Vera"></a>
+  <a href="https://x.com/riquelme44127"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/social/x.svg" width="32%" alt="X — @riquelme44127"></a>
+  <a href="https://www.linkedin.com/in/sebastian-riquelme-vera-482778198"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/social/linkedin.svg" width="32%" alt="LinkedIn — Sebastián Riquelme Vera"></a>
 </p>
 
 ## No llegué al software desde el software.
@@ -29,9 +29,9 @@ Agentes con contexto, memoria y herramientas; pero también con presupuesto, evi
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/execution-pulse-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile/execution-pulse-light.svg">
-    <img src="assets/profile/execution-pulse-dark.svg" width="100%" alt="Pulso de ejecución GitHub: 3935 contribuciones en 60 días">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/execution-pulse-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/execution-pulse-light.svg">
+    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/execution-pulse-dark.svg" width="100%" alt="Pulso de ejecución GitHub: 3935 contribuciones en 60 días">
   </picture>
 </p>
 
@@ -49,9 +49,9 @@ Comercio, contabilidad chilena, regulación de datos, infraestructura, sistemas 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/profile/pattern-lattice-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/profile/pattern-lattice-light.svg">
-    <img src="assets/profile/pattern-lattice-dark.svg" width="100%" alt="Mapa neurodivergente de patrones entre comercio, contabilidad chilena, regulación, infraestructura MCP, empresas agénticas y automatización social">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/pattern-lattice-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/pattern-lattice-light.svg">
+    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/pattern-lattice-dark.svg" width="100%" alt="Mapa neurodivergente de patrones entre comercio, contabilidad chilena, regulación, infraestructura MCP, empresas agénticas y automatización social">
   </picture>
 </p>
 
@@ -75,22 +75,22 @@ No construyo proyectos para acumular repositorios. Los construyo cuando un probl
 No están aquí por ser públicos, privados, grandes o pequeños. Están porque cada uno representa una pregunta difícil distinta.
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/io"><img src="assets/projects/io.svg" width="49%" alt="IO — empresa digital operada por trabajadores agénticos"></a>
-  <a href="https://github.com/riquelmechile/EAUTO-AI"><img src="assets/projects/eauto-ai.svg" width="49%" alt="EAUTO-AI — control plane agéntico para comercio"></a>
+  <a href="https://github.com/riquelmechile/io"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/io.svg" width="49%" alt="IO — empresa digital operada por trabajadores agénticos"></a>
+  <a href="https://github.com/riquelmechile/EAUTO-AI"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/eauto-ai.svg" width="49%" alt="EAUTO-AI — control plane agéntico para comercio"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/xanxittoo"><img src="assets/projects/xanxittoo.svg" width="49%" alt="Xanxittoo — orquestación de desarrollo con memoria, SDD y receipts"></a>
-  <a href="https://github.com/riquelmechile/Elcontador"><img src="assets/projects/elcontador.svg" width="49%" alt="Elcontador — contabilidad chilena local-first con IA y seguridad por diseño"></a>
+  <a href="https://github.com/riquelmechile/xanxittoo"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/xanxittoo.svg" width="49%" alt="Xanxittoo — orquestación de desarrollo con memoria, SDD y receipts"></a>
+  <a href="https://github.com/riquelmechile/Elcontador"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/elcontador.svg" width="49%" alt="Elcontador — contabilidad chilena local-first con IA y seguridad por diseño"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/Msl"><img src="assets/projects/msl.svg" width="49%" alt="MSL — empresa agente orientada a inteligencia operacional"></a>
-  <a href="https://github.com/riquelmechile/Skills-Chile"><img src="assets/projects/skills-chile.svg" width="49%" alt="Skills Chile — conocimiento chileno convertido en skills verificables"></a>
+  <a href="https://github.com/riquelmechile/Msl"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/msl.svg" width="49%" alt="MSL — empresa agente orientada a inteligencia operacional"></a>
+  <a href="https://github.com/riquelmechile/Skills-Chile"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/skills-chile.svg" width="49%" alt="Skills Chile — conocimiento chileno convertido en skills verificables"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/zanaX"><img src="assets/projects/zanax.svg" width="49%" alt="zanaX — agente de investigación, redacción y publicación en X"></a>
+  <a href="https://github.com/riquelmechile/zanaX"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/zanax.svg" width="49%" alt="zanaX — agente de investigación, redacción y publicación en X"></a>
 </p>
 
 ### Siete proyectos, siete preguntas

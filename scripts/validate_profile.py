@@ -5,6 +5,7 @@ import sys
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
+RAW_PREFIX = "https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/"
 errors = []
 
 banned_svg = (
@@ -86,13 +87,19 @@ if "proyectos públicos" in readme.lower() or "public systems" in readme.lower()
 
 asset_refs = set(re.findall(r'(?:src|srcset)="([^"]+\.svg)"', readme))
 for ref in asset_refs:
-    if ref.startswith(("http://", "https://")):
-        errors.append(f"README SVG must be local: {ref}")
+    if not ref.startswith(RAW_PREFIX):
+        errors.append(
+            f"README SVG must use canonical GitHub raw URL {RAW_PREFIX}<asset>: {ref}"
+        )
         continue
-    if not (ROOT / ref).is_file():
-        errors.append(f"README references missing asset: {ref}")
+    local_ref = ref[len(RAW_PREFIX):]
+    if not local_ref.startswith("assets/"):
+        errors.append(f"README raw SVG must resolve under assets/: {ref}")
+        continue
+    if not (ROOT / local_ref).is_file():
+        errors.append(f"README raw SVG references missing local asset: {local_ref}")
 
-typing_svg = (ROOT / "assets/profile/typing-name.svg")
+typing_svg = ROOT / "assets/profile/typing-name.svg"
 if typing_svg.is_file() and "<animate " not in typing_svg.read_text(encoding="utf-8"):
     errors.append("typing-name.svg must contain local SVG animation")
 
@@ -105,4 +112,4 @@ if errors:
         print(f"- {error}")
     sys.exit(1)
 
-print(f"PROFILE VALIDATION OK · {len(svg_files)} SVG assets · {len(asset_refs)} referenced assets")
+print(f"PROFILE VALIDATION OK · {len(svg_files)} SVG assets · {len(asset_refs)} canonical raw references")
