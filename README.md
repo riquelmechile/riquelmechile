@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/profile/typing-name.svg" width="100%" alt="Sebastián Riquelme — nombre animado estilo terminal">
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile/hero-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/profile/hero-light.svg">
@@ -27,11 +31,11 @@ Agentes con contexto, memoria y herramientas; pero también con presupuesto, evi
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/profile/execution-pulse-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/profile/execution-pulse-light.svg">
-    <img src="assets/profile/execution-pulse-dark.svg" width="100%" alt="Pulso de ejecución GitHub: 3609 contribuciones en 60 días">
+    <img src="assets/profile/execution-pulse-dark.svg" width="100%" alt="Pulso de ejecución GitHub: 3933 contribuciones en 60 días">
   </picture>
 </p>
 
-<sub><strong>Corte: 14-AGO-2026.</strong> GitHub registró 3.609 contribuciones entre el 16-JUN y el 14-AGO: 50 días activos, racha máxima de 21 días y un pico de 427 en un día. El total incluye 2.992 contribuciones que GitHub reporta de forma agregada como restringidas/privadas; aquí no se expone ningún repositorio ni actividad privada.</sub>
+<sub><strong>Corte: 17-AGO-2026.</strong> GitHub registró <strong>3.933 contribuciones</strong> entre el 19-JUN y el 17-AGO: <strong>3.114 commits</strong>, 51 días activos, racha máxima de 21 días y un pico de 427 en un día. Métricas obtenidas directamente de GitHub para una ventana exacta de 60 días; no se exponen repositorios ni actividad privada.</sub>
 
 ---
 

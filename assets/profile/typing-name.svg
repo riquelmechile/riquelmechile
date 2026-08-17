@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" role="img" aria-labelledby="typing-title typing-desc">
+<title id="typing-title">Sebastián Riquelme — nombre animado</title>
+<desc id="typing-desc">El nombre Sebastián Riquelme aparece carácter a carácter con un cursor de terminal, como una firma de builder desde Chile.</desc>
+<defs>
+  <linearGradient id="typing-accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22D3A6"/>
+    <stop offset="1" stop-color="#60A5FA"/>
+  </linearGradient>
+  <clipPath id="typing-reveal">
+    <rect x="142" y="30" width="0" height="82">
+      <animate attributeName="width" values="0;47;94;141;188;235;282;329;376;423;470;517;564;611;658;705;752;799;846;846;846;846;0" dur="7s" calcMode="discrete" repeatCount="indefinite"/>
+    </rect>
+  </clipPath>
+</defs>
+<rect x="52" y="24" width="1096" height="112" rx="22" fill="#0B1020" stroke="#1F2937"/>
+<circle cx="82" cy="52" r="5" fill="#F87171"/>
+<circle cx="101" cy="52" r="5" fill="#FBBF24"/>
+<circle cx="120" cy="52" r="5" fill="#22D3A6"/>
+<text x="142" y="52" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#9CA3AF">~/PROFILE · CHILE</text>
+<text x="142" y="106" clip-path="url(#typing-reveal)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="62" font-weight="800" letter-spacing="2.4" fill="url(#typing-accent)">SEBASTIÁN RIQUELME</text>
+<rect x="142" y="65" width="5" height="50" rx="2.5" fill="#F8FAFC">
+  <animate attributeName="x" values="142;189;236;283;330;377;424;471;518;565;612;659;706;753;800;847;894;941;988;988;988;988;142" dur="7s" calcMode="discrete" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="1;1;0;0;1;1" dur="0.72s" calcMode="discrete" repeatCount="indefinite"/>
+</rect>
+<text x="1058" y="124" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.1" fill="#9CA3AF">OPERATE → PATTERN → SYSTEM → EVIDENCE</text>
+</svg>
