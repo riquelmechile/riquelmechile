@@ -13,5 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Validate profile assets and README
+      - name: Validate SVG assets, canonical links and public disclosures
         run: python scripts/validate_profile.py
+      - name: Verify validator catches unsafe SVGs
+        run: python -m unittest discover -s tests -p 'test_*.py' -v

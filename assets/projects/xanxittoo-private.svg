@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="xan-title xan-desc">
+<title id="xan-title">XANXITTOO — SELECTED PRIVATE BUILD</title>
+<desc id="xan-desc">Xanxittoo, sistema privado de orquestación de trabajo de desarrollo asistido por inteligencia artificial</desc>
+<defs>
+  <linearGradient id="xan-accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#A78BFA"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  <pattern id="xan-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#1E293B" fill="none" stroke-width=".7"/></pattern>
+</defs>
+<rect width="900" height="240" rx="22" fill="#0B1020"/>
+<rect x="1" y="1" width="898" height="238" rx="21" fill="none" stroke="#334155"/>
+<rect x="16" y="16" width="868" height="208" rx="15" fill="url(#xan-grid)" opacity=".7"/>
+<rect x="35" y="22" width="256" height="30" rx="15" fill="#111827" stroke="#A78BFA"/>
+<circle cx="53" cy="37" r="5" fill="#A78BFA"/>
+<text x="70" y="42" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="700" fill="#D1D5DB">SELECTED PRIVATE BUILD</text>
+<text x="35" y="110" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="850" font-size="50" fill="#F8FAFC">XANXITTOO</text>
+<rect x="35" y="126" width="75" height="4" rx="2" fill="url(#xan-accent)"/>
+<text x="35" y="164" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="22" font-weight="650" fill="#E2E8F0">Orquestación persistente para desarrollo con IA</text>
+<text x="35" y="198" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" fill="#AAB8C8">Contexto · misiones · revisión · resultados</text>
+<g transform="translate(776 115)">
+ <circle r="70" fill="#111827" stroke="#334155" stroke-width="2"/>
+ <circle r="48" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="4 7"/>
+ <path d="M-34 12L-6 -18L17 6L40 -24" stroke="url(#xan-accent)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+ <circle cx="-34" cy="12" r="7" fill="#A78BFA"/><circle cx="-6" cy="-18" r="7" fill="#F8FAFC"/><circle cx="17" cy="6" r="7" fill="#A78BFA"/><circle cx="40" cy="-24" r="7" fill="#60A5FA"/>
+</g>
+</svg>
