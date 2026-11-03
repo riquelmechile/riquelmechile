@@ -12,6 +12,8 @@ El proyecto compara diseños de paneles multiagente utilizando protocolos y caso
 
 ## Colaboraciones que buscamos
 
+Invitamos especialmente a **médicos**, profesionales de investigación clínica, especialistas en interoperabilidad y expertos en seguridad y privacidad.
+
 | Área | Contribución potencial |
 | --- | --- |
 | Medicina y especialidades clínicas | Definir criterios de seguridad, revisar protocolos de casos sintéticos y adjudicar resultados de investigación |
