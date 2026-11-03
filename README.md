@@ -21,6 +21,8 @@ Vengo del **e-commerce real**: costos, inventario, publicidad, proveedores, recl
 
 > **Razonamiento probabilístico dentro de límites deterministas.** Una propuesta no es una ejecución; una respuesta convincente no equivale a un resultado verificado.
 
+**Perfil actualizado: 03-NOV-2026.**
+
 **En foco, noviembre de 2026:** control planes MCP, orquestación A2A, investigación multiagente, interoperabilidad y herramientas situadas en Chile.
 
 ---
