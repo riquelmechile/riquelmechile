@@ -2,6 +2,20 @@
   <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/typing-name.svg" width="100%" alt="Sebastián Riquelme — firma animada estilo terminal">
 </p>
 
+## Actividad GitHub · últimos 12 meses
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/contributions-year-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/contributions-year-light.svg">
+    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/contributions-year-dark.svg" width="100%" alt="6.708 contribuciones en el último año, según GitHub el 3 de noviembre de 2026; 76% commits, 20% pull requests y 4% issues">
+  </picture>
+</p>
+
+**6.708 contribuciones en el último año** · GitHub Activity Overview: **76% commits**, **20% pull requests**, **4% issues**.
+
+<sub>Fuente: captura de la sección Contributions de <a href="https://github.com/riquelmechile">GitHub</a>, 03-NOV-2026. Es una cifra histórica comprobada en esa fecha, no un contador en vivo. La gráfica de contribuciones que GitHub muestra más abajo en el perfil es la referencia actualizable.</sub>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/hero-dark.svg">

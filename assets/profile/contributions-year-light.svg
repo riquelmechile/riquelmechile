@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 300" role="img" aria-labelledby="annual-light-title annual-light-desc">
+<title id="annual-light-title">6.708 contribuciones en GitHub durante el último año, corte 3 de noviembre de 2026</title>
+<desc id="annual-light-desc">Captura del perfil de GitHub: 6.708 contribuciones en los últimos doce meses. Activity overview: 76 por ciento commits, 20 por ciento pull requests y 4 por ciento issues. Esta tarjeta es un registro fechado, no un contador automático.</desc>
+<defs>
+  <linearGradient id="annual-light-background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#FFFFFF"/>
+  </linearGradient>
+  <linearGradient id="annual-light-number" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#087D62"/>
+    <stop offset="1" stop-color="#16A085"/>
+  </linearGradient>
+  <pattern id="annual-light-grid" width="28" height="28" patternUnits="userSpaceOnUse">
+    <path d="M28 0H0V28" fill="none" stroke="#E5EDF5" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect x="1" y="1" width="1098" height="298" rx="22" fill="url(#annual-light-background)" stroke="#C7D7E6" stroke-width="2"/>
+<rect x="20" y="20" width="1060" height="260" rx="13" fill="url(#annual-light-grid)" opacity=".35"/>
+<path d="M455 32V269" stroke="#C7D7E6" stroke-width="2" opacity=".7"/>
+<rect x="40" y="30" width="212" height="34" rx="17" fill="#E5F6F0" stroke="#087D62" stroke-width="1.5"/>
+<circle cx="61" cy="47" r="6" fill="#087D62"/>
+<text x="76" y="53" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17" fill="#0F172A" font-weight="700">GITHUB · 12 MESES</text>
+<text x="39" y="193" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="138" font-weight="850" letter-spacing="-6" fill="url(#annual-light-number)">6.708</text>
+<text x="43" y="230" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="26" font-weight="700" fill="#0F172A">CONTRIBUCIONES</text>
+<text x="43" y="261" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="18" fill="#40526A">Corte: 03 NOV 2026 · registro</text>
+<text x="496" y="67" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="28" font-weight="760" fill="#0F172A">Actividad verificable</text>
+<text x="497" y="99" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="19" fill="#40526A">Desglose mostrado por GitHub</text>
+<rect x="496" y="127" width="554" height="26" rx="7" fill="#E5EDF5"/>
+<path d="M503 127H917V153H503Q496 153 496 146V134Q496 127 503 127Z" fill="#087D62"/>
+<rect x="917" y="127" width="111" height="26" fill="#2563EB"/>
+<path d="M1028 127H1043Q1050 127 1050 134V146Q1050 153 1043 153H1028Z" fill="#B45309"/>
+<circle cx="506" cy="196" r="7" fill="#087D62"/>
+<text x="524" y="203" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="23" fill="#0F172A" font-weight="660">76% commits</text>
+<circle cx="762" cy="196" r="7" fill="#2563EB"/>
+<text x="780" y="203" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="23" fill="#0F172A" font-weight="660">20% PR</text>
+<circle cx="506" cy="240" r="7" fill="#B45309"/>
+<text x="524" y="247" font-family="system-ui,-apple-system,Segoe UI,Arial,sans-serif" font-size="23" fill="#0F172A" font-weight="660">4% issues</text>
+<text x="1039" y="258" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="17" text-anchor="end" fill="#40526A">Snapshot · no en vivo</text>
+</svg>
