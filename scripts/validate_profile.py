@@ -10,6 +10,8 @@ RAW_PREFIX = "https://raw.githubusercontent.com/riquelmechile/riquelmechile/main
 
 EXPECTED_ASSETS = {
     "assets/profile/typing-name.svg",
+    "assets/profile/contributions-year-dark.svg",
+    "assets/profile/contributions-year-light.svg",
     "assets/profile/hero-dark.svg",
     "assets/profile/hero-light.svg",
     "assets/profile/pattern-lattice-dark.svg",
@@ -98,6 +100,12 @@ def validate_readme_and_docs(root: Path) -> list[str]:
         "casos sintéticos",
         "03-NOV-2026",
         "Archivo histórico",
+        "6.708 contribuciones",
+        "76% commits",
+        "20% pull requests",
+        "4% issues",
+        "assets/profile/contributions-year-dark.svg",
+        "assets/profile/contributions-year-light.svg",
         "RESEARCH_COLLABORATION.md",
         "PROJECTS.md#intelagent",
         "PROJECTS.md#xanxittoo",
