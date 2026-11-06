@@ -1,10 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 160" role="img" aria-labelledby="typing-title typing-desc">
 <title id="typing-title">Sebastián Riquelme — nombre animado</title>
 <desc id="typing-desc">El nombre Sebastián Riquelme aparece carácter a carácter con un cursor de terminal, como una firma de builder desde Chile.</desc>
-<style>
-.static-name{display:none}
-@media(prefers-reduced-motion:reduce){.motion-name{display:none}.static-name{display:inline}}
-</style>
 <defs>
   <linearGradient id="typing-accent" x1="0" y1="0" x2="1" y2="0">
     <stop offset="0" stop-color="#22D3A6"/>
@@ -21,9 +17,8 @@
 <circle cx="101" cy="52" r="5" fill="#FBBF24"/>
 <circle cx="120" cy="52" r="5" fill="#22D3A6"/>
 <text x="142" y="52" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700" letter-spacing="1.4" fill="#9CA3AF">~/PROFILE · CHILE</text>
-<text class="motion-name" x="142" y="106" clip-path="url(#typing-reveal)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="62" font-weight="800" letter-spacing="2.4" fill="url(#typing-accent)">SEBASTIÁN RIQUELME</text>
-<text class="static-name" x="142" y="106" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="62" font-weight="800" letter-spacing="2.4" fill="url(#typing-accent)">SEBASTIÁN RIQUELME</text>
-<rect class="motion-name" x="142" y="65" width="5" height="50" rx="2.5" fill="#F8FAFC">
+<text x="142" y="106" clip-path="url(#typing-reveal)" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="62" font-weight="800" letter-spacing="2.4" fill="url(#typing-accent)">SEBASTIÁN RIQUELME</text>
+<rect x="142" y="65" width="5" height="50" rx="2.5" fill="#F8FAFC">
   <animate attributeName="x" values="142;189;236;283;330;377;424;471;518;565;612;659;706;753;800;847;894;941;988;988;988;988;142" dur="7s" calcMode="discrete" repeatCount="indefinite"/>
   <animate attributeName="opacity" values="1;1;0;0;1;1" dur="0.72s" calcMode="discrete" repeatCount="indefinite"/>
 </rect>
