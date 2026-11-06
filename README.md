@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/typing-name.svg" width="100%" alt="Sebastián Riquelme — firma animada estilo terminal">
+  <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/typing-name.svg?v=20261106-animation-restored" width="100%" alt="Sebastián Riquelme — firma animada estilo terminal">
 </p>
 
 <p align="center">
@@ -123,24 +123,15 @@ Para cambios técnicos trabajo con especificaciones, pruebas, revisión y result
 
 </details>
 
-### Actividad · Un vistazo al recorrido
+### Ingeniero en resolver · Abierto a nuevos desafíos
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/activity-2026-11-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/activity-2026-11-light.svg">
-    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/activity-2026-11-dark.svg" width="100%" alt="7.310 contribuciones en los últimos doce meses. Captura aportada el 6 de noviembre de 2026: 76% commits, 19% pull requests, 4% issues y 1% revisiones de código.">
-  </picture>
-</p>
+Tengo un **e-commerce automatizado basado en arbitraje**. Haber automatizado su operación me permite dedicar tiempo a lo que realmente disfruto: **desarrollo de software e inteligencia artificial**.
 
-<sub>Archivo histórico: <strong>7.310 contribuciones</strong> en los últimos doce meses; <strong>76% commits</strong>, <strong>19% pull requests</strong>, <strong>4% issues</strong> y <strong>1% revisiones de código</strong>. Fuente: captura del perfil aportada el 06-NOV-2026. Es un registro fechado, no un contador en vivo ni una medida de calidad. La gráfica nativa de GitHub, debajo del README, muestra la actividad actual.</sub>
+Me entusiasma enfrentar problemas difíciles, entenderlos y convertir ideas en sistemas que funcionen en el mundo real. **Busco desafíos para colaborar en proyectos open source y también oportunidades laborales** donde pueda aportar, aprender y seguir construyendo soluciones.
+
+**Mi especialidad: encontrar la forma de resolverlo.**
 
 ---
-
-<p align="center">
-  <strong>Build verifiable systems. Connect patterns. Measure outcomes.</strong><br>
-  <sub>Desde Chile · Operar primero · Automatizar con límites · Verificar siempre</sub>
-</p>
 
 <p align="center">
   <a href="https://github.com/riquelmechile/riquelmechile/blob/main/RESEARCH_COLLABORATION.md">Colaboración médica</a> ·

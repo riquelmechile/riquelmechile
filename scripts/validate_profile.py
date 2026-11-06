@@ -99,15 +99,12 @@ def validate_readme_and_docs(root: Path) -> list[str]:
         "Buscamos colaboración",
         "casos sintéticos",
         "06-NOV-2026",
-        "Archivo histórico",
-        "7.310 contribuciones",
-        "76% commits",
-        "19% pull requests",
-        "4% issues",
-        "1% revisiones de código",
+        "Ingeniero en resolver",
+        "e-commerce automatizado basado en arbitraje",
+        "desarrollo de software e inteligencia artificial",
+        "proyectos open source",
+        "oportunidades laborales",
         "https://github.com/riquelmechile/ZanaLLaima",
-        "assets/profile/activity-2026-11-dark.svg",
-        "assets/profile/activity-2026-11-light.svg",
         "RESEARCH_COLLABORATION.md",
         "PROJECTS.md#intelagent",
         "PROJECTS.md#xanxittoo",
@@ -133,14 +130,14 @@ def validate_readme_and_docs(root: Path) -> list[str]:
         if token in readme:
             errors.append(f"External profile-rendering service prohibited: {token}")
 
-    refs = re.findall(r'(?:src|srcset)="([^"]+\.svg)"', readme)
+    refs = re.findall(r'(?:src|srcset)="([^"]+\.svg(?:\?v=[A-Za-z0-9-]+)?)"', readme)
     if len(refs) < 14:
         errors.append(f"Expected at least 14 SVG image references, found {len(refs)}")
     for ref in refs:
         if not ref.startswith(RAW_PREFIX):
             errors.append(f"Noncanonical GitHub raw SVG URL: {ref}")
             continue
-        relative = ref[len(RAW_PREFIX):]
+        relative = ref[len(RAW_PREFIX):].split("?", 1)[0]
         if not relative.startswith("assets/") or not (root / relative).is_file():
             errors.append(f"README SVG target missing or outside assets/: {relative}")
 
