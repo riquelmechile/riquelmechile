@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-labelledby="pm-title pm-desc">
+  <title id="pm-title">Panter, the Panter-ai mascot</title>
+  <desc id="pm-desc">A sleek black panther sitting upright, with the round ears, pointed snout, pink nose and whiskers of a mouse. Its long tail curls up and ends in a glowing teal connector node.</desc>
+  <defs>
+    <linearGradient id="pm-sheen" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b3040"/>
+      <stop offset="1" stop-color="#12141b"/>
+    </linearGradient>
+    <radialGradient id="pm-glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#5eead4" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#5eead4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <circle cx="256" cy="256" r="244" fill="#fff4d6"/>
+  <circle cx="256" cy="256" r="244" fill="none" stroke="#f5b301" stroke-width="8"/>
+  <!-- tail: sweeps from the haunch up the right side and ends in a connector node -->
+  <path d="M352 420 C452 420 478 330 456 262 C444 224 428 204 434 182" fill="none" stroke="#14161c" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="436" cy="168" r="32" fill="url(#pm-glow)"/>
+  <circle cx="436" cy="168" r="14" fill="#2dd4bf" stroke="#0f766e" stroke-width="4"/>
+  <path d="M424 150 L417 136 M436 146 L436 130 M448 150 L455 136" stroke="#0f766e" stroke-width="4" stroke-linecap="round"/>
+  <!-- haunch and body -->
+  <ellipse cx="300" cy="402" rx="96" ry="62" fill="url(#pm-sheen)"/>
+  <path d="M196 262 C176 330 168 400 184 450 L320 450 C344 400 336 320 316 262 Z" fill="url(#pm-sheen)"/>
+  <path d="M300 286 C318 330 322 372 312 410" fill="none" stroke="#3a4152" stroke-width="5" stroke-linecap="round"/>
+  <!-- front legs and paws -->
+  <rect x="204" y="350" width="34" height="100" rx="17" fill="#14161c"/>
+  <rect x="268" y="350" width="34" height="100" rx="17" fill="#14161c"/>
+  <ellipse cx="221" cy="452" rx="26" ry="13" fill="#14161c"/>
+  <ellipse cx="285" cy="452" rx="26" ry="13" fill="#14161c"/>
+  <path d="M211 456 v-7 M221 457 v-8 M231 456 v-7 M275 456 v-7 M285 457 v-8 M295 456 v-7" stroke="#3a4152" stroke-width="3" stroke-linecap="round"/>
+  <!-- collar with an MCP hex tag -->
+  <path d="M194 300 C228 320 284 320 318 300" fill="none" stroke="#2dd4bf" stroke-width="12" stroke-linecap="round"/>
+  <path d="M256 314 l14 8 v16 l-14 8 l-14 -8 v-16 Z" fill="#f5b301" stroke="#b45309" stroke-width="3" stroke-linejoin="round"/>
+  <!-- mouse ears -->
+  <circle cx="172" cy="118" r="62" fill="#14161c"/>
+  <circle cx="340" cy="118" r="62" fill="#14161c"/>
+  <circle cx="176" cy="122" r="38" fill="#ff8fa3"/>
+  <circle cx="336" cy="122" r="38" fill="#ff8fa3"/>
+  <!-- head: a panther's dark fur on a mouse's pointed face -->
+  <path d="M158 182 C158 112 354 112 354 182 C354 236 292 276 256 292 C220 276 158 236 158 182 Z" fill="url(#pm-sheen)"/>
+  <path d="M190 150 C214 132 298 132 322 150" fill="none" stroke="#3a4152" stroke-width="5" stroke-linecap="round"/>
+  <!-- panther eyes: amber, slit pupils -->
+  <path d="M194 190 Q218 166 242 190 Q218 208 194 190 Z" fill="#f5b301"/>
+  <path d="M270 190 Q294 166 318 190 Q294 208 270 190 Z" fill="#f5b301"/>
+  <ellipse cx="218" cy="189" rx="4" ry="12" fill="#12141b"/>
+  <ellipse cx="294" cy="189" rx="4" ry="12" fill="#12141b"/>
+  <circle cx="226" cy="183" r="3.5" fill="#ffffff"/>
+  <circle cx="302" cy="183" r="3.5" fill="#ffffff"/>
+  <!-- mouse snout: pink nose, mouth, teeth, whiskers -->
+  <ellipse cx="256" cy="262" rx="14" ry="10" fill="#ff8fa3"/>
+  <path d="M256 272 v8 M244 282 Q256 290 268 282" fill="none" stroke="#ff8fa3" stroke-width="3" stroke-linecap="round"/>
+  <rect x="249" y="286" width="6" height="8" rx="1.5" fill="#ffffff"/>
+  <rect x="257" y="286" width="6" height="8" rx="1.5" fill="#ffffff"/>
+  <path d="M234 256 L176 242 M234 264 L172 266 M236 272 L182 288 M278 256 L336 242 M278 264 L340 266 M276 272 L330 288" stroke="#8a93a5" stroke-width="3" stroke-linecap="round"/>
+</svg>

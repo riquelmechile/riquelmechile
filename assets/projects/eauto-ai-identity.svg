@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" role="img" aria-labelledby="eauto-ai-title eauto-ai-desc">
+<title id="eauto-ai-title">EAUTO-AI</title>
+<desc id="eauto-ai-desc">Carrito de comercio con escudo de aprobación. Android · gobernanza · comercio</desc>
+<style>.card-bg{fill:#0B1020}.card-panel{fill:#111827}.card-title{fill:#F8FAFC}.card-copy{fill:#E2E8F0}.card-muted{fill:#AAB8C8}.card-border{stroke:#334155}@media(prefers-color-scheme:light){.card-bg{fill:#F8FAFC}.card-panel{fill:#E2E8F0}.card-title,.card-copy{fill:#0B1020}.card-muted{fill:#475569}.card-border{stroke:#CBD5E1}}</style>
+<rect class="card-bg card-border" x="1" y="1" width="558" height="218" rx="22" stroke-width="1"/>
+<path d="M28 99h75" stroke="#60A5FA" stroke-width="4" stroke-linecap="round"/>
+<text x="28" y="38" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="700" fill="#60A5FA">COMERCIO CON AUTORIDAD</text>
+<text class="card-title" x="28" y="82" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="34">EAUTO-AI</text>
+<text class="card-copy" x="28" y="126" font-family="system-ui,sans-serif" font-size="16" font-weight="600">Señal → evidencia → aprobación</text>
+<text class="card-copy" x="28" y="149" font-family="system-ui,sans-serif" font-size="16" font-weight="600">→ ejecución → resultado.</text>
+<text class="card-muted" x="28" y="199" font-family="system-ui,sans-serif" font-size="13">Android · gobernanza · comercio</text>
+<g transform="translate(432 20)"><path d="M9 18h12l9 43h45l12-32H25" fill="#203553" stroke="#60A5FA" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32 49h40 M44 31v19 M62 31v19" fill="none" stroke="#60A5FA" stroke-width="2"/>
+<circle cx="37" cy="77" r="7" fill="#60A5FA"/><circle cx="72" cy="77" r="7" fill="#60A5FA"/>
+<path d="M70 7 90 14v17c0 13-20 23-20 23S50 44 50 31V14Z" fill="#0B1020" stroke="#22D3A6" stroke-width="3"/>
+<path d="m60 29 7 7 14-16" fill="none" stroke="#22D3A6" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>

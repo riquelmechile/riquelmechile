@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="doctor-chile-title doctor-chile-desc">
+<title id="doctor-chile-title">MCP DOCTOR CHILE</title>
+<desc id="doctor-chile-desc">Estetoscopio junto a una ficha de investigación. Casos sintéticos · revisión clínica · privacidad</desc>
+<style>.card-bg{fill:#0B1020}.card-panel{fill:#111827}.card-title{fill:#F8FAFC}.card-copy{fill:#E2E8F0}.card-muted{fill:#AAB8C8}.card-border{stroke:#334155}@media(prefers-color-scheme:light){.card-bg{fill:#F8FAFC}.card-panel{fill:#E2E8F0}.card-title,.card-copy{fill:#0B1020}.card-muted{fill:#475569}.card-border{stroke:#CBD5E1}}</style>
+<rect class="card-bg card-border" x="1" y="1" width="898" height="238" rx="22" stroke-width="1"/>
+<path d="M35 127h75" stroke="#F87171" stroke-width="4" stroke-linecap="round"/>
+<text x="35" y="38" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="700" fill="#F87171">BUSCAMOS COLABORACIÓN</text>
+<text class="card-title" x="35" y="110" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="50">MCP DOCTOR CHILE</text>
+<text class="card-copy" x="35" y="164" font-family="system-ui,sans-serif" font-size="22" font-weight="600">Harness Médico Chile · investigación multiagente</text>
+<text class="card-muted" x="35" y="198" font-family="system-ui,sans-serif" font-size="18">Casos sintéticos · revisión clínica · privacidad</text>
+<g transform="translate(695 26) scale(1.9)"><rect x="38" y="8" width="53" height="71" rx="8" fill="#EEF6FF" stroke="#60A5FA" stroke-width="3"/>
+<rect x="52" y="3" width="25" height="13" rx="5" fill="#60A5FA"/>
+<path d="M49 30h29 M49 40h20 M49 50h25" stroke="#91A7C1" stroke-width="3" stroke-linecap="round"/>
+<path d="M12 15v19c0 23 29 23 29 0V15 M26 53v18c0 23 44 22 44 0v-7" fill="none" stroke="#22D3A6" stroke-width="6" stroke-linecap="round"/>
+<path d="M12 13v9 M41 13v9" stroke="#60A5FA" stroke-width="8" stroke-linecap="round"/>
+<circle cx="70" cy="64" r="11" fill="#0B1020" stroke="#22D3A6" stroke-width="4"/><circle cx="70" cy="64" r="4" fill="#A7F3D0"/></g>
+</svg>

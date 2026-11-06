@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 310" role="img" aria-labelledby="zl-m-t zl-m-d">
+<title id="zl-m-t">ZanaLLaima</title>
+<desc id="zl-m-d">Zanahoria nerd con lentes redondos, corbata de humita azul y una tabla con las cuatro revisiones R1 a R4 marcadas. / A nerdy carrot with round glasses, a blue bow tie and a clipboard with the four reviews R1 to R4 checked.</desc>
+<defs>
+  <linearGradient id="zlm-body" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#F9A24A"/><stop offset="1" stop-color="#D9661A"/>
+  </linearGradient>
+</defs>
+<g transform="translate(0 0) scale(1.0)">
+  <ellipse cx="120" cy="292" rx="62" ry="9" fill="#1F2933" opacity=".12"/>
+  <path d="M120 74 C104 44 82 36 66 42 C82 50 98 62 112 78 Z" fill="#3FA34D"/>
+  <path d="M120 72 C118 40 126 18 138 8 C140 30 134 54 126 76 Z" fill="#2E7D32"/>
+  <path d="M122 76 C140 50 162 44 178 50 C162 58 146 68 130 82 Z" fill="#3FA34D"/>
+  <path d="M72 84 Q120 62 168 84 Q178 100 166 124 L129 280 Q120 294 111 280 L74 124 Q62 100 72 84 Z" fill="url(#zlm-body)"/>
+  <path d="M84 150 q12 6 24 2 M134 172 q12 4 22 -2 M96 214 q10 5 20 1 M128 240 q7 3 13 -1 M90 104 q8 4 16 2" fill="none" stroke="#D9661A" stroke-width="3" stroke-linecap="round" opacity=".55"/>
+  <path d="M84 108 q11 -9 24 -3" fill="none" stroke="#1F2933" stroke-width="4" stroke-linecap="round"/>
+  <path d="M132 105 q13 -6 24 3" fill="none" stroke="#1F2933" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="97" cy="130" r="21" fill="#E8F3FF" opacity=".85"/>
+  <circle cx="143" cy="130" r="21" fill="#E8F3FF" opacity=".85"/>
+  <circle cx="99" cy="132" r="6.5" fill="#1F2933"/><circle cx="141" cy="132" r="6.5" fill="#1F2933"/>
+  <circle cx="101.5" cy="129.5" r="2.2" fill="#fff"/><circle cx="143.5" cy="129.5" r="2.2" fill="#fff"/>
+  <circle cx="97" cy="130" r="21" fill="none" stroke="#1F2933" stroke-width="5.5"/>
+  <circle cx="143" cy="130" r="21" fill="none" stroke="#1F2933" stroke-width="5.5"/>
+  <path d="M118 128 q2 -4 4 0" fill="none" stroke="#1F2933" stroke-width="5" stroke-linecap="round"/>
+  <path d="M76 126 L66 122 M164 126 L174 122" stroke="#1F2933" stroke-width="5" stroke-linecap="round"/>
+  <path d="M84 116 q4 -2 8 0" stroke="#fff" stroke-width="2.5" stroke-linecap="round" opacity=".9" fill="none"/>
+  <path d="M106 166 q14 12 28 0" fill="none" stroke="#1F2933" stroke-width="4.5" stroke-linecap="round"/>
+  <rect x="115" y="167" width="10" height="7" rx="1.5" fill="#fff" stroke="#1F2933" stroke-width="2"/>
+  <circle cx="86" cy="158" r="6" fill="#F7A072" opacity=".55"/><circle cx="154" cy="158" r="6" fill="#F7A072" opacity=".55"/>
+  <path d="M120 190 L102 180 L102 200 Z M120 190 L138 180 L138 200 Z" fill="#2563EB"/>
+  <circle cx="120" cy="190" r="4.5" fill="#1D4ED8"/>
+  <path d="M86 206 Q62 214 50 230" fill="none" stroke="#D9661A" stroke-width="6" stroke-linecap="round"/>
+  <g transform="rotate(-8 44 252)">
+    <rect x="14" y="222" width="62" height="78" rx="6" fill="#fff" stroke="#1F2933" stroke-width="3.5"/>
+    <rect x="34" y="216" width="22" height="10" rx="3" fill="#1F2933"/>
+    <g font-family="system-ui,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" font-weight="700" fill="#1F2933">
+      <text x="22" y="244">R1</text><text x="22" y="260">R2</text><text x="22" y="276">R3</text><text x="22" y="292">R4</text>
+    </g>
+    <path d="M44 240 l4 4 8 -9 M44 256 l4 4 8 -9 M44 272 l4 4 8 -9 M44 288 l4 4 8 -9" fill="none" stroke="#2E7D32" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <path d="M156 200 Q182 186 190 160" fill="none" stroke="#D9661A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M186 160 q2 -14 6 -18 q3 6 -1 18 Z" fill="#D9661A"/>
+  <circle cx="190" cy="132" r="5" fill="#FDE68A" stroke="#1F2933" stroke-width="2"/>
+  <path d="M190 118 v-6 M178 122 l-4 -4 M202 122 l4 -4" stroke="#F59E0B" stroke-width="3" stroke-linecap="round"/></g>
+</svg>

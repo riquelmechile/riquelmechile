@@ -36,7 +36,7 @@ Una selección de sistemas abiertos, investigación y problemas que conozco desd
 ### Panter-ai · Control plane abierto
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/Panter-ai"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/panter-ai.svg" width="100%" alt="Panter-ai, proyecto open source de control plane MCP"></a>
+  <a href="https://github.com/riquelmechile/Panter-ai"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/panter-ai-identity.svg" width="100%" alt="Panter-ai y su mascota Panter: pantera con rasgos de ratón y cola conectora"></a>
 </p>
 
 **[Panter-ai](https://github.com/riquelmechile/Panter-ai)** · Servidor MCP abierto, con licencia MIT, para coordinar varias aplicaciones de IA como un equipo: un líder reparte el trabajo y los agentes entregan resultados con evidencia. Conserva misiones, permisos y revisiones; conecta el trabajo con ramas, PR y CI en GitHub. **Cada aplicación ejecuta su modelo: Panter no hace inferencia.** Las rutas de activación dependen de lo que soporte cada host.
@@ -44,7 +44,7 @@ Una selección de sistemas abiertos, investigación y problemas que conozco desd
 ### ZanaLLaima · De ChatGPT al código revisado
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/ZanaLLaima"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/zanallaima.svg" width="100%" alt="ZanaLLaima — desarrollo desde ChatGPT, pruebas en GitHub y revisión sobre el commit exacto"></a>
+  <a href="https://github.com/riquelmechile/ZanaLLaima"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/zanallaima-identity.svg" width="100%" alt="ZanaLLaima y su mascota: zanahoria con lentes y lista de cuatro revisiones"></a>
 </p>
 
 **[ZanaLLaima](https://github.com/riquelmechile/ZanaLLaima)** · Harness de desarrollo para la app de ChatGPT mediante un MCP remoto: trabajo en la rama de una misión, pruebas en GitHub Actions y revisión desde una conversación separada sobre el **commit exacto**. El servidor organiza y aplica reglas sin llamar a modelos. **En desarrollo:** el README del proyecto mantiene el despliegue y la prueba completa con ChatGPT como pendientes de observar.
@@ -52,7 +52,7 @@ Una selección de sistemas abiertos, investigación y problemas que conozco desd
 ### MCP Doctor Chile · Investigación y colaboración
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/riquelmechile/blob/main/RESEARCH_COLLABORATION.md"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/doctor-chile.svg" width="100%" alt="MCP Doctor Chile: buscamos colaboradores clínicos y técnicos para investigación con casos sintéticos"></a>
+  <a href="https://github.com/riquelmechile/riquelmechile/blob/main/RESEARCH_COLLABORATION.md"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/doctor-chile-identity.svg" width="100%" alt="MCP Doctor Chile: estetoscopio y ficha de investigación; colaboración con casos sintéticos"></a>
 </p>
 
 **MCP Doctor Chile** es el nombre de presentación de **Harness Médico Chile**, una investigación privada y experimental sobre evaluación de razonamiento clínico entre modelos de IA, evidencia y contexto sanitario chileno. Hoy es **solo investigación con casos sintéticos**, no un producto clínico, servicio diagnóstico ni sistema validado para pacientes.
@@ -64,12 +64,12 @@ Una selección de sistemas abiertos, investigación y problemas que conozco desd
 ### Otros sistemas públicos
 
 <p align="center">
-  <a href="https://github.com/riquelmechile/Skills-Chile"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/skills-chile.svg" width="49%" alt="Skills Chile — capacidades verificables para contexto chileno"></a>
-  <a href="https://github.com/riquelmechile/io"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/io.svg" width="49%" alt="IO — experimentos de operación agéntica"></a>
+  <a href="https://github.com/riquelmechile/Skills-Chile"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/skills-chile-identity.svg" width="49%" alt="Skills Chile — capacidades verificables para contexto chileno"></a>
+  <a href="https://github.com/riquelmechile/io"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/io-identity.svg" width="49%" alt="IO — experimentos de operación agéntica"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/riquelmechile/EAUTO-AI"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/eauto-ai.svg" width="49%" alt="EAUTO-AI — control agéntico del comercio"></a>
-  <a href="https://github.com/riquelmechile/zanaX"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/zanax.svg" width="49%" alt="zanaX — investigación y automatización de contenido"></a>
+  <a href="https://github.com/riquelmechile/EAUTO-AI"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/eauto-ai-identity.svg" width="49%" alt="EAUTO-AI — control agéntico del comercio"></a>
+  <a href="https://github.com/riquelmechile/zanaX"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/zanax-identity.svg" width="49%" alt="zanaX — investigación y automatización de contenido"></a>
 </p>
 
 **[Skills Chile](https://github.com/riquelmechile/Skills-Chile)** convierte procesos y conocimiento contextual en skills con referencias. **[IO](https://github.com/riquelmechile/io)** explora operación agéntica con costo controlado. **[EAUTO-AI](https://github.com/riquelmechile/EAUTO-AI)** aplica límites de autoridad al comercio. **[zanaX](https://github.com/riquelmechile/zanaX)** estudia automatización de investigación y publicación.

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 220" role="img" aria-labelledby="io-title io-desc">
+<title id="io-title">IO</title>
+<desc id="io-desc">Monograma IO rodeado de un anillo cian y violeta. Heartbeat · costos · recibos</desc>
+<style>.card-bg{fill:#0B1020}.card-panel{fill:#111827}.card-title{fill:#F8FAFC}.card-copy{fill:#E2E8F0}.card-muted{fill:#AAB8C8}.card-border{stroke:#334155}@media(prefers-color-scheme:light){.card-bg{fill:#F8FAFC}.card-panel{fill:#E2E8F0}.card-title,.card-copy{fill:#0B1020}.card-muted{fill:#475569}.card-border{stroke:#CBD5E1}}</style>
+<rect class="card-bg card-border" x="1" y="1" width="558" height="218" rx="22" stroke-width="1"/>
+<path d="M28 99h75" stroke="#22D3A6" stroke-width="4" stroke-linecap="round"/>
+<text x="28" y="38" font-family="ui-monospace,Consolas,monospace" font-size="11" font-weight="700" fill="#22D3A6">OPERACIÓN AGÉNTICA</text>
+<text class="card-title" x="28" y="82" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="34">IO</text>
+<text class="card-copy" x="28" y="126" font-family="system-ui,sans-serif" font-size="16" font-weight="600">La empresa es la unidad;</text>
+<text class="card-copy" x="28" y="149" font-family="system-ui,sans-serif" font-size="16" font-weight="600">el agente es un trabajador.</text>
+<text class="card-muted" x="28" y="199" font-family="system-ui,sans-serif" font-size="13">Heartbeat · costos · recibos</text>
+<g transform="translate(432 20)"><defs><linearGradient id="io-monogram-accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#67e8f9"/><stop offset="1" stop-color="#a78bfa"/></linearGradient></defs>
+<circle cx="50" cy="50" r="48" fill="#0b1b30" stroke="#2b3f5f" stroke-width="2"/>
+<circle cx="50" cy="50" r="34" fill="none" stroke="url(#io-monogram-accent)" stroke-width="3"/>
+<text x="50" y="62" text-anchor="middle" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="34" font-weight="800" letter-spacing="4">IO</text></g>
+</svg>
