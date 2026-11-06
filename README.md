@@ -2,20 +2,6 @@
   <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/typing-name.svg" width="100%" alt="Sebastián Riquelme — firma animada estilo terminal">
 </p>
 
-## Actividad GitHub · últimos 12 meses
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/contributions-year-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/contributions-year-light.svg">
-    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/contributions-year-dark.svg" width="100%" alt="6.708 contribuciones en el último año, según GitHub el 3 de noviembre de 2026; 76% commits, 20% pull requests y 4% issues">
-  </picture>
-</p>
-
-**6.708 contribuciones en el último año** · GitHub Activity Overview: **76% commits**, **20% pull requests**, **4% issues**.
-
-<sub>Fuente: captura de la sección Contributions de <a href="https://github.com/riquelmechile">GitHub</a>, 03-NOV-2026. Es una cifra histórica comprobada en esa fecha, no un contador en vivo. La gráfica de contribuciones que GitHub muestra más abajo en el perfil es la referencia actualizable.</sub>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/hero-dark.svg">
@@ -35,15 +21,17 @@ Vengo del **e-commerce real**: costos, inventario, publicidad, proveedores, recl
 
 > **Razonamiento probabilístico dentro de límites deterministas.** Una propuesta no es una ejecución; una respuesta convincente no equivale a un resultado verificado.
 
-**Perfil actualizado: 03-NOV-2026.**
+**Actualizado: 06-NOV-2026.**
 
-**En foco, noviembre de 2026:** control planes MCP, orquestación A2A, investigación multiagente, interoperabilidad y herramientas situadas en Chile.
+**Ahora:** coordinar agentes entre aplicaciones con **Panter-ai**, llevar el desarrollo desde ChatGPT a GitHub con **ZanaLLaima** y construir herramientas con contexto chileno.
+
+[Proyectos](#proyectos-que-mejor-explican-mi-trabajo) · [Cómo trabajo](#la-variedad-no-es-dispersión-es-búsqueda-de-estructura) · [Contacto](https://www.linkedin.com/in/sebastian-riquelme-vera-482778198)
 
 ---
 
 ## Proyectos que mejor explican mi trabajo
 
-No los ordeno por cantidad de código ni por si son públicos o privados. Cada uno investiga un problema difícil diferente.
+Una selección de sistemas abiertos, investigación y problemas que conozco desde la operación.
 
 ### Panter-ai · Control plane abierto
 
@@ -51,7 +39,15 @@ No los ordeno por cantidad de código ni por si son públicos o privados. Cada u
   <a href="https://github.com/riquelmechile/Panter-ai"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/panter-ai.svg" width="100%" alt="Panter-ai, proyecto open source de control plane MCP"></a>
 </p>
 
-**[Panter-ai](https://github.com/riquelmechile/Panter-ai)** · Proyecto MIT en desarrollo para coordinar misiones y trabajo de agentes desde aplicaciones anfitrionas, sin utilizar APIs propias de inferencia. Separa autorización, tareas, evidencia y revisión. Las integraciones reales se consideran demostradas solo cuando están verificadas en su host.
+**[Panter-ai](https://github.com/riquelmechile/Panter-ai)** · Servidor MCP abierto, con licencia MIT, para coordinar varias aplicaciones de IA como un equipo: un líder reparte el trabajo y los agentes entregan resultados con evidencia. Conserva misiones, permisos y revisiones; conecta el trabajo con ramas, PR y CI en GitHub. **Cada aplicación ejecuta su modelo: Panter no hace inferencia.** Las rutas de activación dependen de lo que soporte cada host.
+
+### ZanaLLaima · De ChatGPT al código revisado
+
+<p align="center">
+  <a href="https://github.com/riquelmechile/ZanaLLaima"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/zanallaima.svg" width="100%" alt="ZanaLLaima — desarrollo desde ChatGPT, pruebas en GitHub y revisión sobre el commit exacto"></a>
+</p>
+
+**[ZanaLLaima](https://github.com/riquelmechile/ZanaLLaima)** · Harness de desarrollo para la app de ChatGPT mediante un MCP remoto: trabajo en la rama de una misión, pruebas en GitHub Actions y revisión desde una conversación separada sobre el **commit exacto**. El servidor organiza y aplica reglas sin llamar a modelos. **En desarrollo:** el README del proyecto mantiene el despliegue y la prueba completa con ChatGPT como pendientes de observar.
 
 ### MCP Doctor Chile · Investigación y colaboración
 
@@ -78,21 +74,23 @@ No los ordeno por cantidad de código ni por si son públicos o privados. Cada u
 
 **[Skills Chile](https://github.com/riquelmechile/Skills-Chile)** convierte procesos y conocimiento contextual en skills con referencias. **[IO](https://github.com/riquelmechile/io)** explora operación agéntica con costo controlado. **[EAUTO-AI](https://github.com/riquelmechile/EAUTO-AI)** aplica límites de autoridad al comercio. **[zanaX](https://github.com/riquelmechile/zanaX)** estudia automatización de investigación y publicación.
 
-### Sistemas privados seleccionados · Casos de diseño
+### Más exploraciones públicas
 
-Los describo por el problema que resuelven, **sin enlazar a repositorios inaccesibles ni publicar su implementación interna**. Una tarjeta no equivale a una demostración pública ni a una declaración de producción.
+- **[Oráculo Chanchín](https://github.com/riquelmechile/oraculo-chanchin)** · Skill en español para explorar I Ching, BaZi y fuentes tradicionales chinas, con una separación explícita entre interpretación cultural y evidencia científica.
+- **[MercadoLibre ME1 Chile](https://github.com/riquelmechile/mercadolibre-me1-chile-integrator)** · MVP de logística multitransportista para cotización y seguimiento. La operación Dynamic Freight en producción está sujeta a certificación; otros transportistas dependen de contratos.
 
-<p align="center">
-  <a href="https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md#intelagent"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/intelagent-private.svg" width="100%" alt="IntelAgent — investigación cuantitativa privada"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md#xanxittoo"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/xanxittoo-private.svg" width="100%" alt="Xanxittoo — orquestación privada de desarrollo con IA"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md#elcontador"><img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/projects/elcontador-private.svg" width="100%" alt="Elcontador — sistemas contables para Chile"></a>
-</p>
+<details>
+<summary><strong>Sistemas privados · Problemas que también investigo</strong></summary>
 
-**[Leer qué hacen y qué límites tienen estos sistemas →](https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md)**
+Descripciones públicas de alto nivel, sin exponer repositorios ni datos internos:
+
+- **[Xanxittoo](https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md#xanxittoo):** contexto durable, autoridad y verificación para desarrollo asistido por IA.
+- **[IntelAgent](https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md#intelagent):** investigación cuantitativa con trazabilidad entre datos, señales y evaluación.
+- **[Elcontador](https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md#elcontador):** automatización y revisión humana en procesos contables chilenos.
+
+[Problemas, decisiones y límites →](https://github.com/riquelmechile/riquelmechile/blob/main/PROJECTS.md)
+
+</details>
 
 ---
 
@@ -125,20 +123,17 @@ Para cambios técnicos trabajo con especificaciones, pruebas, revisión y result
 
 </details>
 
-<details>
-<summary><strong>Pulso de contribuciones · Archivo histórico verificado</strong></summary>
+### Actividad · Un vistazo al recorrido
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/execution-pulse-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/execution-pulse-light.svg">
-    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/execution-pulse-dark.svg" width="100%" alt="Snapshot histórico de contribuciones GitHub del 19 de junio al 17 de agosto de 2026">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/activity-2026-11-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/activity-2026-11-light.svg">
+    <img src="https://raw.githubusercontent.com/riquelmechile/riquelmechile/main/assets/profile/activity-2026-11-dark.svg" width="100%" alt="7.310 contribuciones en los últimos doce meses. Captura aportada el 6 de noviembre de 2026: 76% commits, 19% pull requests, 4% issues y 1% revisiones de código.">
   </picture>
 </p>
 
-**Archivo histórico, no contador actual:** corte del 17-AGO-2026 (19-JUN a 17-AGO, 60 días). GitHub registró entonces 3.935 contribuciones, 3.115 commits y 52 días activos. Se conserva por trazabilidad; requiere una nueva consulta verificable para actualizarlo.
-
-</details>
+<sub>Archivo histórico: <strong>7.310 contribuciones</strong> en los últimos doce meses; <strong>76% commits</strong>, <strong>19% pull requests</strong>, <strong>4% issues</strong> y <strong>1% revisiones de código</strong>. Fuente: captura del perfil aportada el 06-NOV-2026. Es un registro fechado, no un contador en vivo ni una medida de calidad. La gráfica nativa de GitHub, debajo del README, muestra la actividad actual.</sub>
 
 ---
 

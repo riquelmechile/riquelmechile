@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 180" role="img" aria-labelledby="activity-title activity-desc">
+<title id="activity-title">7.310 contribuciones · registro aportado el 6 de noviembre de 2026</title>
+<desc id="activity-desc">Últimos doce meses: 76% commits, 19% pull requests, 4% issues y 1% revisiones de código. Fuente: captura del perfil GitHub aportada por su propietario. No es un contador en vivo.</desc>
+<rect x="1" y="1" width="898" height="178" rx="22" fill="#0B1020" stroke="#334155"/>
+<text x="30" y="39" font-family="ui-monospace,Consolas,monospace" font-size="17" fill="#AAB8C8">ACTIVIDAD · ÚLTIMOS 12 MESES</text>
+<text x="29" y="112" font-family="system-ui,sans-serif" font-size="62" font-weight="800" fill="#F8FAFC">7.310</text>
+<text x="31" y="145" font-family="system-ui,sans-serif" font-size="21" fill="#AAB8C8">contribuciones</text>
+<text x="335" y="80" font-family="system-ui,sans-serif" font-size="22" fill="#F8FAFC">76% commits · 19% pull requests</text>
+<text x="335" y="113" font-family="system-ui,sans-serif" font-size="22" fill="#F8FAFC">4% issues · 1% revisiones de código</text>
+<text x="335" y="147" font-family="ui-monospace,Consolas,monospace" font-size="17" fill="#AAB8C8">06 NOV 2026 · captura, no en vivo</text>
+</svg>

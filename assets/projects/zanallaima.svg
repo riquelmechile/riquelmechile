@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="llaimacard-title llaimacard-desc">
+<title id="llaimacard-title">ZanaLLaima — desarrollo desde ChatGPT</title>
+<desc id="llaimacard-desc">ZanaLLaima organiza trabajo desde ChatGPT con ramas de misión, pruebas y revisión del commit exacto. Proyecto en desarrollo.</desc>
+<style>@media(prefers-color-scheme:light){svg{--panel:#E2E8F0}svg>rect:first-of-type{fill:#F8FAFC}text{fill:#0B1020}}</style>
+<defs>
+  <linearGradient id="llaimacard-accent" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#22D3A6"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+  <pattern id="llaimacard-grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" stroke="#1E293B" fill="none" stroke-width=".7"/></pattern>
+</defs>
+<rect width="900" height="240" rx="22" fill="#0B1020"/>
+<rect x="1" y="1" width="898" height="238" rx="21" fill="none" stroke="#334155"/>
+<rect x="16" y="16" width="868" height="208" rx="15" fill="url(#llaimacard-grid)" opacity=".7"/>
+<rect x="35" y="22" width="206" height="30" rx="15" fill="var(--panel,#111827)" stroke="#22D3A6"/>
+<circle cx="53" cy="37" r="5" fill="#22D3A6"/>
+<text x="70" y="42" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="700" fill="#D1D5DB">MCP · EN DESARROLLO</text>
+<text x="35" y="110" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="850" font-size="50" fill="#F8FAFC">ZanaLLaima</text>
+<rect x="35" y="126" width="75" height="4" rx="2" fill="url(#llaimacard-accent)"/>
+<text x="35" y="164" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="22" font-weight="650" fill="#E2E8F0">De ChatGPT al código revisado</text>
+<text x="35" y="198" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-size="18" fill="#AAB8C8">Rama propia · pruebas · revisión por commit</text>
+<g transform="translate(776 115)">
+ <circle r="70" fill="var(--panel,#111827)" stroke="#334155" stroke-width="2"/>
+ <circle r="48" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="4 7"/>
+ <path d="M-34 12L-6 -18L17 6L40 -24" stroke="url(#llaimacard-accent)" fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="6"/>
+ <circle cx="-34" cy="12" r="7" fill="#22D3A6"/><circle cx="-6" cy="-18" r="7" fill="#F8FAFC"/><circle cx="17" cy="6" r="7" fill="#22D3A6"/><circle cx="40" cy="-24" r="7" fill="#60A5FA"/>
+</g>
+</svg>
