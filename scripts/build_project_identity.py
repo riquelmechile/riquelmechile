@@ -64,14 +64,15 @@ def card(key, title, kicker, lines, caption, accent, illustration, big=True):
     text_size=22 if big else 16
     subtitle_y=198 if big else 169
     artwork=illustration
+    light_accent={"#22D3A6":"#047857","#F87171":"#B91C1C","#60A5FA":"#1D4ED8","#FBBF24":"#92400E"}[accent]
     descriptions={'panter-ai':'Panter, pantera con rasgos de ratón y cola conectora. ', 'zanallaima':'Zanahoria con lentes, humita azul y lista de cuatro revisiones. ', 'doctor-chile':'Estetoscopio junto a una ficha de investigación. ', 'skills-chile':'Tarjetas de conocimiento con estrella chilena y símbolos de código. ', 'io':'Monograma IO rodeado de un anillo cian y violeta. ', 'eauto-ai':'Carrito de comercio con escudo de aprobación. ', 'zanax':'Robot azul con antena amarilla junto a una banana. '}
     content=f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {w} {h}" role="img" aria-labelledby="{key}-title {key}-desc">
 <title id="{key}-title">{escape(title)}</title>
 <desc id="{key}-desc">{escape(descriptions[key]+caption)}</desc>
-<style>.card-bg{{fill:#0B1020}}.card-panel{{fill:#111827}}.card-title{{fill:#F8FAFC}}.card-copy{{fill:#E2E8F0}}.card-muted{{fill:#AAB8C8}}.card-border{{stroke:#334155}}@media(prefers-color-scheme:light){{.card-bg{{fill:#F8FAFC}}.card-panel{{fill:#E2E8F0}}.card-title,.card-copy{{fill:#0B1020}}.card-muted{{fill:#475569}}.card-border{{stroke:#CBD5E1}}}}</style>
+<style>.card-bg{{fill:#0B1020}}.card-panel{{fill:#111827}}.card-title{{fill:#F8FAFC}}.card-copy{{fill:#E2E8F0}}.card-muted{{fill:#AAB8C8}}.card-border{{stroke:#334155}}@media(prefers-color-scheme:light){{.card-bg{{fill:#F8FAFC}}.card-panel{{fill:#E2E8F0}}.card-title,.card-copy{{fill:#0B1020}}.card-muted{{fill:#475569}}.card-border{{stroke:#CBD5E1}}.card-kicker{{fill:{light_accent}}}}}</style>
 <rect class="card-bg card-border" x="1" y="1" width="{w-2}" height="{h-2}" rx="22" stroke-width="1"/>
 <path d="M{x} {title_y+17}h75" stroke="{accent}" stroke-width="4" stroke-linecap="round"/>
-<text x="{x}" y="38" font-family="ui-monospace,Consolas,monospace" font-size="{13 if big else 11}" font-weight="700" fill="{accent}">{escape(kicker)}</text>
+<text class="card-kicker" x="{x}" y="38" font-family="ui-monospace,Consolas,monospace" font-size="{13 if big else 11}" font-weight="700" fill="{accent}">{escape(kicker)}</text>
 <text class="card-title" x="{x}" y="{title_y}" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="{fs}">{escape(title)}</text>
 '''
     for i,line in enumerate(lines):

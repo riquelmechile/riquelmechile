@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" role="img" aria-labelledby="zanallaima-title zanallaima-desc">
 <title id="zanallaima-title">ZanaLLaima</title>
 <desc id="zanallaima-desc">Zanahoria con lentes, humita azul y lista de cuatro revisiones. Rama propia · pruebas · revisión por commit</desc>
-<style>.card-bg{fill:#0B1020}.card-panel{fill:#111827}.card-title{fill:#F8FAFC}.card-copy{fill:#E2E8F0}.card-muted{fill:#AAB8C8}.card-border{stroke:#334155}@media(prefers-color-scheme:light){.card-bg{fill:#F8FAFC}.card-panel{fill:#E2E8F0}.card-title,.card-copy{fill:#0B1020}.card-muted{fill:#475569}.card-border{stroke:#CBD5E1}}</style>
+<style>.card-bg{fill:#0B1020}.card-panel{fill:#111827}.card-title{fill:#F8FAFC}.card-copy{fill:#E2E8F0}.card-muted{fill:#AAB8C8}.card-border{stroke:#334155}@media(prefers-color-scheme:light){.card-bg{fill:#F8FAFC}.card-panel{fill:#E2E8F0}.card-title,.card-copy{fill:#0B1020}.card-muted{fill:#475569}.card-border{stroke:#CBD5E1}.card-kicker{fill:#047857}}</style>
 <rect class="card-bg card-border" x="1" y="1" width="898" height="238" rx="22" stroke-width="1"/>
 <path d="M35 127h75" stroke="#22D3A6" stroke-width="4" stroke-linecap="round"/>
-<text x="35" y="38" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="700" fill="#22D3A6">MCP · EN DESARROLLO</text>
+<text class="card-kicker" x="35" y="38" font-family="ui-monospace,Consolas,monospace" font-size="13" font-weight="700" fill="#22D3A6">MCP · EN DESARROLLO</text>
 <text class="card-title" x="35" y="110" font-family="system-ui,-apple-system,Segoe UI,sans-serif" font-weight="800" font-size="50">ZanaLLaima</text>
 <text class="card-copy" x="35" y="164" font-family="system-ui,sans-serif" font-size="22" font-weight="600">De ChatGPT al código revisado</text>
 <text class="card-muted" x="35" y="198" font-family="system-ui,sans-serif" font-size="18">Rama propia · pruebas · revisión por commit</text>
